@@ -1,0 +1,31 @@
+body {
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:rgb(222, 197, 166);
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+    h1, h2{
+
+    text-align: center;
+
+}
+
+.container{
+   height: 200px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+    
+}
+
+#dov{
+
+    display: flex;
+    justify-content: center;
+}
